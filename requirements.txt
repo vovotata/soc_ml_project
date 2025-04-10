@@ -1,0 +1,20 @@
+# Базовые библиотеки
+pandas
+regex
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+
+# PyTorch
+torch>=2.0.0
+torchvision
+torchaudio
+
+# Hugging Face
+transformers>=4.39.0
+tokenizers
+
+# Jupyter
+notebook
